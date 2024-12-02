@@ -1,0 +1,51 @@
+body {
+  /* cf. https://developer.mozilla.org/ja/docs/Web/CSS/font-family#some_common_font_families */
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+/* Layout */
+
+main {
+  max-width: 34rem;
+  padding: 1rem;
+  margin: auto;
+}
+
+header ul {
+  display: flex;
+  padding: 0;
+  justify-content: center;
+  list-style: none;
+}
+
+header li + li::before {
+  content: "/";
+  margin: 0 0.5rem;
+}
+
+footer {
+  font-family: "koias";
+  text-align: center;
+}
+
+/* Elements */
+
+hr {
+  border: 1px solid;
+}
+
+h1 {
+  font-family: "koias";
+}
+
+h2::before {
+  content: "# ";
+}
+
+.border {
+  border: 1px solid black;
+}
+
+.pix {
+  image-rendering: pixelated;
+}

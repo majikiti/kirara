@@ -1,0 +1,46 @@
+---
+import "~/styles/global.css"
+import "~/styles/fonts.css"
+
+const {
+  title = "{title}",
+  fullTitle = title + " :: KCCTきらら同好会",
+  description = "KCCTきらら同好会のサイト",
+} = Astro.props.frontmatter || Astro.props
+---
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width" />
+  <title>{fullTitle}</title>
+  <meta name="description" content={description} />
+  <meta property="og:title" content={fullTitle} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={Astro.url} />
+  <meta property="og:image" content={Astro.site + "icon.png"} />
+</head>
+<body>
+  <main>
+    <header>
+      <ul>
+        <li><a href="/">Top</a></li>
+        <li><a href="/activities/">Activities</a></li>
+        <li><a href="https://twitter.com/KCCTkirara" target="_blank">Twitter</a></li>
+      </ul>
+    </header>
+    <hr />
+<slot />
+    <hr />
+    <footer>
+      <a href="http://www.dokidokivisual.com/magic_of_stella/" target="_blank">
+        <!-- もとは371x75 -->
+        <img class="border pix" src="http://www.dokidokivisual.com/magic_of_stella/img/banner/banner_stella_s_animated.gif" width="200" height="40" />
+      </a>
+      <div>
+        <small>&copy; 2024-{new Date().getFullYear()} KCCTきらら同好会</small>
+      </div>
+    </footer>
+  </main>
+</body>
+</html>
