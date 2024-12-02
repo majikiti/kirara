@@ -9,7 +9,7 @@ const {
 } = Astro.props.frontmatter || Astro.props
 ---
 
-<html lang="en">
+<html lang="ja">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width" />
@@ -33,10 +33,14 @@ const {
 <slot />
     <hr />
     <footer>
-      <a href="http://www.dokidokivisual.com/magic_of_stella/" target="_blank">
-        <!-- もとは371x75 -->
-        <img class="border pix" src="http://www.dokidokivisual.com/magic_of_stella/img/banner/banner_stella_s_animated.gif" width="200" height="40" />
-      </a>
+      <div>
+        <a href="http://www.dokidokivisual.com/" target="_blank">
+          <!-- もとは200x60 -->
+          <img class="border pix" src="https://www.yuyushiki.net/core_sys/images/banner/00000002.jpg" width="200" height="60" /></a>
+        <a href="https://www.tbs.co.jp/anime/machikado/1st/">
+          <!-- もとは800x300 -->
+          <img class="border" src="https://www.tbs.co.jp/anime/machikado/img/footer_banner_01@2x.jpg" width="160" height="60" /></a>
+      </div>
       <div>
         <small>&copy; 2024-{new Date().getFullYear()} KCCTきらら同好会</small>
       </div>
