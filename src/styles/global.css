@@ -34,7 +34,8 @@ hr {
   border: 1px solid;
 }
 
-h1 {
+h1,
+h2 {
   font-family: "koias";
 }
 
