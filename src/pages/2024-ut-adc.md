@@ -1,9 +1,9 @@
 ---
 layout: ~/components/Layout.astro
-title: 無題
+title: 今年のきらら作品を振り返って
 ---
 
-# 無題
+# はじめに
 
 *この記事はアドカレのほげほげです*
 
