@@ -8,6 +8,10 @@ fullTitle: KCCTきらら同好会
 神戸高専のきら同です。
 実は[学校のサイト](https://www.kobe-kosen.ac.jp/campus_life/club/association/)に載っていない地下組織です。
 
+## 会員募集
+
+KCCTきらら同好会は会員を新規募集中です.[こちらのフォーム](https://forms.gle/yb5CWtftHoUGKHiT6)からお申し込みください
+
 ## リンク集
 
 - Twitter: https://twitter.com/KCCTkirara
