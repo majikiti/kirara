@@ -1,5 +1,5 @@
 ---
-layout: ~/components/Layout.astro
+layout: ~/components/BaseLayout.astro
 fullTitle: KCCTきらら同好会
 ---
 
@@ -12,3 +12,8 @@ fullTitle: KCCTきらら同好会
 
 - Twitter: https://twitter.com/KCCTkirara
 - BOOTH: https://kcctkirara.booth.pm/
+
+## 記事
+
+- [2024-ut-adc](2024-ut-adc)
+- [2024-ut-adc2](2024-ut-adc2)

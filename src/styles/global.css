@@ -41,7 +41,7 @@ footer {
 /* Elements */
 
 hr {
-  border: 1px solid;
+  border: 1px dashed;
 }
 
 a {
@@ -55,6 +55,10 @@ h2 {
 
 h2::before {
   content: "# ";
+}
+
+.bb {
+  border: 1px solid;
 }
 
 .border {

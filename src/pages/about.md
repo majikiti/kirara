@@ -1,5 +1,5 @@
 ---
-layout: ~/components/Layout.astro
+layout: ~/components/BaseLayout.astro
 title: 概要
 ---
 

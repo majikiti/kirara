@@ -1,0 +1,16 @@
+---
+import BaseLayout from "~/components/BaseLayout.astro"
+
+const props = Astro.props.frontmatter || Astro.props
+const { title, author, date } = props
+---
+
+<BaseLayout {...props}>
+    <h1 style="margin-bottom:.4em">{title}</h1>
+    <div>
+      {author && <span>投稿者: {author}</span>}
+      {date && <time datetime={new Date(date).toISOString()}>{date}</time>}
+    </div>
+    <hr />
+<slot />
+</BaseLayout>
