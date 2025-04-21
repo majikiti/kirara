@@ -10,7 +10,7 @@ fullTitle: KCCTきらら同好会
 
 ## 会員募集
 
-KCCTきらら同好会は会員を新規募集中です.[こちらのフォーム](https://forms.gle/yb5CWtftHoUGKHiT6)からお申し込みください
+KCCTきらら同好会は会員を新規募集中です.DMへどうぞ.
 
 ## リンク集
 
