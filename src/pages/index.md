@@ -8,6 +8,9 @@ fullTitle: KCCTきらら同好会
 神戸高専のきら同です。
 実は[学校のサイト](https://www.kobe-kosen.ac.jp/campus_life/club/association/)に載っていない地下組織です。
 
+## 令和8年度 神戸高専 高専祭について
+10/31ｰ11/01に開催される神戸市立高専の高専祭での頒布に関して、[こちら](kcctfes)に掲載していますので、御一読ください。
+
 ## 祝 「ぬるめた」アニメ化決定！
 こかむも先生原作、アニメ[「ぬるめた」](http://nlmt-anime.com)のアニメ化が決定しました！おめでとうございます！
 
@@ -40,3 +43,4 @@ KCCTきらら同好会は会員を新規募集中です。TwitterのDMへどう�
 - [2024-ut-adc](2024-ut-adc)
 - [2024-ut-adc2](2024-ut-adc2)
 - [2025first](2025first)
+ｰ [kcctfes](kcctfes)
