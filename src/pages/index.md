@@ -43,4 +43,4 @@ KCCTきらら同好会は会員を新規募集中です。TwitterのDMへどう�
 - [2024-ut-adc](2024-ut-adc)
 - [2024-ut-adc2](2024-ut-adc2)
 - [2025first](2025first)
-ｰ [kcctfes](kcctfes)
+- [kcctfes](kcctfes)
